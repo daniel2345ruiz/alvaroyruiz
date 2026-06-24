@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daniel2345ruiz.github.io/alvaroyruiz/sitemap.xml
